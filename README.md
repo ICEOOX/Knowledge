@@ -1,6 +1,38 @@
 # 个人知识框架搭建！（Knowledge）
 
-## 啊
+## 知识软件
+
+总管理-思维导图
+  目前正在使用得软件：MindMaster - 在线思维导图 https://mm.edrawsoft.cn/files
+  优点：云端保存，便携
+  缺点：国产运营数据不安全，导出水印收费（但可按月充值）
+  
+  使用思维导图软件搭建知识框架，结构清晰，易于整理，方便整体把控。
+  
+  
+文章内容：
+Evernote-印象笔记国际免费版
+免费版功能日常使用满够，方便保存网页内容，直接使用浏览器扩展，数据较为安全，印象笔记成立后对数据安全大的承诺。
+黑点：恶意注册notion笔记商标，虽说是资本的逐利行为，但也以为着一个公司的企业理念是否合乎人类的道德水准。
+
+Notion
+只有英文版，使用起来较为不方便。
+纯云端同步，存在数据同步丢失的风险。
+
+表格
+腾讯文档
+表格数据计算较为方便。
+
+
+打造一个线上办公环境（摒弃随身携带储存、办公设备）
+
+
+
+ 
+ 
+
+
+
 <p align="center">
   <a href="#微信"><img src="https://camo.githubusercontent.com/59d7f19ba1af85247e016858a63045f8fe9a8c19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765436861742de5beaee4bfa1e7bea42d626c75652e737667" alt="微信群" data-canonical-src="https://img.shields.io/badge/weChat-微信群-blue.svg" style="max-width:100%;"></a>
   <a href="#公众号"><img src="https://camo.githubusercontent.com/a379920d2a34962711cc813e90aa0b1d058da1f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545352538352541432545342542432539372545352538462542372de4b889e5a4aae5ad90e69596e4b8992d6c69676874677265792e737667" alt="公众号" data-canonical-src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-三太子敖丙-lightgrey.svg" style="max-width:100%;"></a>
